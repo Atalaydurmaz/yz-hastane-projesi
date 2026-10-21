@@ -10,7 +10,7 @@ Teslim tarihi: 13 Aralık
 |----|-----|----------|------------|
 | 1 | Proje Koordinatörü ve Sistem Mimarı | | |
 | 2 | Ajan ve Durum Uzayı Modelleme Uzmanı | | |
-| 3 | Bilgisiz Arama Algoritmaları | Atalay Durmaz | B221200371 |
+| 3 | Bilgisiz Arama Algoritmaları | | |
 | 4 | Bilgili Arama Algoritmaları | | |
 | 5 | Rekabetçi Arama ve Minimax | | |
 | 6 | Alfa-Beta Budama ve Analiz | | |
